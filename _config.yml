@@ -2,6 +2,7 @@ permalink: pretty
 markdown: rdiscount
 highlighter: pygments
 url: http://inglisekolledz.github.io/CAS
+baseurl: /CAS
 
 collections:
   - plays
