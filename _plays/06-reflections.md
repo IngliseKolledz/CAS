@@ -11,12 +11,14 @@ title: Guiding Questions for Reflections
 - Would you say you have met your own expectations?
 - Which difficulties did you face?
 - Did  you at any stage feel that you were failing to achieve your expectations?
-- If so, did someone help you then? In case, who? How?
-- Who guided your reflections during the whole project?
+  
+  If so, did you find help at this stage? Who, how?
+
+- Who guided your reflections during the project?
 - Did you find that useful?
 - What did you think you learned about yourself through this activity?
 - What did you learn about others through this activity?
-- How will you be able to apply what you have learnt in other life situations?
-- Do you think this activity benefited other people? If so, whom, and how?
+- How will you be able to apply what you have learned in other life situations?
+- Do you think this activity benefited other people? If so — whom, and how?
 - What would you change if you were to do this all again?
 - What would you like to do next if you could continue with this activity?
