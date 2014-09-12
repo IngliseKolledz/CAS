@@ -26,10 +26,6 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
     line-height: 28px;
   }
 
-  body#techfar_landing_page {
-    background: $atlantic_blue;
-  }
-
   a {
     color: inherit;
     font-family: inherit;
@@ -424,7 +420,7 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
     }
   }
 
-  #plays, #techfar {
+  #plays {
 
     h2, h4 {
       @include span-columns(8);
@@ -450,6 +446,17 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
       @include span-columns(8);
       list-style-position: outside;
       padding-left: 25px;
+    }
+
+    ul ul {
+      float: none;
+    }
+
+    ul,
+    ol {
+      p {
+        float: none;
+      }
     }
 
     ol {
@@ -505,20 +512,6 @@ $slimmer: new-breakpoint(min-width 641px max-width 980px 12);
     }
   }
 
-  #techfar {
-    em {
-      font-size: 12px;
-      // margin-right: 5px;
-      line-height: 0;
-      vertical-align: super;
-    }
-    h2, h4 {
-      margin-top: 20px;
-    }
-    img {
-      max-width: 100%;
-    }
-  }
 }
 
 @media print {

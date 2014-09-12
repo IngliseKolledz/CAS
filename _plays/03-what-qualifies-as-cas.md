@@ -1,6 +1,6 @@
 ---
 id: 3
-title: What qualifies as CAS?
+title: What Qualifies as CAS?
 ---
 
 The following questions may help you determine whether or not an intended activity qualifies as CAS:

@@ -10,9 +10,6 @@
     margin: 0;
     line-height: 28px; }
 
-  body#techfar_landing_page {
-    background: #36435a; }
-
   a {
     color: inherit;
     font-family: inherit;
@@ -341,91 +338,87 @@
       column-gap: 00px; } }
 
 @media screen {
-  #plays h2, #plays h4, #techfar h2, #techfar h4 {
+  #plays h2, #plays h4 {
     float: left;
     display: block;
     margin-right: 2.35765%;
     width: 65.88078%; }
-    #plays h2:last-child, #plays h4:last-child, #techfar h2:last-child, #techfar h4:last-child {
+    #plays h2:last-child, #plays h4:last-child {
       margin-right: 0; }
-  #plays h4, #techfar h4 {
+  #plays h4 {
     margin-top: 0px;
     color: #36435a; }
-  #plays h2, #techfar h2 {
+  #plays h2 {
     margin-bottom: 24px; }
-  #plays h5, #techfar h5 {
+  #plays h5 {
     font-size: 14px; }
-  #plays p, #techfar p {
+  #plays p {
     float: left;
     display: block;
     margin-right: 2.35765%;
     width: 74.41059%; }
-    #plays p:last-child, #techfar p:last-child {
+    #plays p:last-child {
       margin-right: 0; }
-  #plays ol, #plays ul, #techfar ol, #techfar ul {
+  #plays ol, #plays ul {
     float: left;
     display: block;
     margin-right: 2.35765%;
     width: 65.88078%;
     list-style-position: outside;
     padding-left: 25px; }
-    #plays ol:last-child, #plays ul:last-child, #techfar ol:last-child, #techfar ul:last-child {
+    #plays ol:last-child, #plays ul:last-child {
       margin-right: 0; }
-  #plays ol, #techfar ol {
+  #plays ul ul {
+    float: none; }
+  #plays ul p,
+  #plays ol p {
+    float: none; }
+  #plays ol {
     list-style-image: url("../images/bullet-sq.svg");
     margin-top: 0px; }
-  #plays li, #techfar li {
+  #plays li {
     font-size: 15px;
     line-height: 25px;
     padding-left: 5px; }
-  #plays ul, #techfar ul {
+  #plays ul {
     list-style-image: url("../images/bullet-circle.svg"); }
-  #plays a, #techfar a {
+  #plays a {
     color: #36435a;
     text-decoration: underline;
     display: inline-block; }
-  #plays a:hover, #techfar a:hover {
+  #plays a:hover {
     color: white;
     background: #36435a; } }
 @media screen and (min-width: 0px) and (max-width: 640px) {
-  #plays p, #techfar p {
+  #plays p {
     font-size: 16px;
     line-height: 24px; }
-  #plays ol, #plays li, #techfar ol, #techfar li {
+  #plays ol, #plays li {
     font-size: 14px;
     line-height: 20px; }
-  #plays h2, #plays h4, #plays p, #plays ol, #plays ul, #techfar h2, #techfar h4, #techfar p, #techfar ol, #techfar ul {
+  #plays h2, #plays h4, #plays p, #plays ol, #plays ul {
     float: left;
     display: block;
     margin-right: 7.42297%;
     width: 100%; }
-    #plays h2:last-child, #plays h4:last-child, #plays p:last-child, #plays ol:last-child, #plays ul:last-child, #techfar h2:last-child, #techfar h4:last-child, #techfar p:last-child, #techfar ol:last-child, #techfar ul:last-child {
+    #plays h2:last-child, #plays h4:last-child, #plays p:last-child, #plays ol:last-child, #plays ul:last-child {
       margin-right: 0; } }
 @media screen and (min-width: 641px) and (max-width: 980px) {
-  #plays h2, #plays h4, #techfar h2, #techfar h4 {
+  #plays h2, #plays h4 {
     float: left;
     display: block;
     margin-right: 2.35765%;
     width: 74.41059%; }
-    #plays h2:last-child, #plays h4:last-child, #techfar h2:last-child, #techfar h4:last-child {
+    #plays h2:last-child, #plays h4:last-child {
       margin-right: 0; }
-  #plays p, #techfar p {
+  #plays p {
     float: left;
     display: block;
     margin-right: 2.35765%;
     width: 82.94039%; }
-    #plays p:last-child, #techfar p:last-child {
+    #plays p:last-child {
       margin-right: 0; } }
 
-@media screen {
-  #techfar em {
-    font-size: 12px;
-    line-height: 0;
-    vertical-align: super; }
-  #techfar h2, #techfar h4 {
-    margin-top: 20px; }
-  #techfar img {
-    max-width: 100%; } }
 @media print {
   body {
     background: white;
