@@ -23,8 +23,3 @@ This project uses [Sass](http://sass-lang.com/ "Link to Learn More About Sass") 
 **Do not** make changes to the `styles.css` file directly, as this file is auto-generated from the `styles.css.scss` file.
 
 To compile changes in the `styles.css.scss` Sass file into a new `styles.css` file, you can run: `$ sass --watch assets/sass/styles.css.scss:assets/css/styles.css`. This command will watch for any changes you make to the Sass file and automatically update the CSS file, making it easy to check your work when you are running the site locally (see above).
-
-## License
-As a work of the United States Government, this project is in the public domain within the United States.
-
-Additionally, we waive copyright and related rights in the work worldwide through the [CC0 1.0 Universal public domain dedication](https://creativecommons.org/publicdomain/zero/1.0/).
