@@ -1,6 +1,6 @@
 ---
 id: 5
-title: Requirements, responsibilities, guidelines
+title: Requirements, Responsibilities, Guidelines
 ---
 
 - CAS is a requirement for all IB1 and IB2 diploma students; if you fail to fulfill CAS requirements, the diploma will not be awarded.
