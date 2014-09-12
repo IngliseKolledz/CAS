@@ -34,10 +34,7 @@
     <div class="inner_container">
       {% capture introduction %}{% include introduction.md %}{% endcapture %}
       {{ introduction | markdownify }}
-      <div class="button">
-        <a href="#plays_index_anchor" title="View the Plays">SEE THE PLAYS</a>
-      </div>
-      <div class="button">
+      <div class="button" style="display: none;">
         <a href="https://github.com/IngliseKolledz/CAS/" title="Visit Github to Improve This Content">HELP IMPROVE THIS CONTENT</a>
       </div>
     </div>
@@ -48,7 +45,7 @@
   <div class="outer_container">
     <div class="inner_container">
       <a class="anchor_offset" id="plays_index_anchor"></a>
-      <h3>DIGITAL SERVICE PLAYS</h3>
+      <h3></h3>
       <div class="columns">
         <ol>
         {% for play in site.plays %}
@@ -67,7 +64,7 @@
   {% for play in site.plays %}
     <div class="inner_container">
       <a class="anchor_offset" id="play{{ play.id }}"></a>
-      <h5>PLAY {{ play.id }}</h5>
+      <h5>PART {{ play.id }}</h5>
       <h2>{{ play.title }}</h2>
 
       {{ play.output }}
