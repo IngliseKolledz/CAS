@@ -3,7 +3,7 @@ id: 1
 title: What is CAS
 ---
 
-CAS is a fundamental element of the IB diploma programme. It will involve
+CAS is a fundamental element of the IB diploma programme. It will involve:
 
 1. real purposeful activities, with significant outcomes
 2. a personal challenge
