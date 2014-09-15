@@ -10,7 +10,7 @@ title: CAS Opportunities
   drawing, painting, photography, graphics, sculpture
 
 - Handicrafts (Sirli Kodres)
-- Drama (Katre Pelisaar)
+- Drama (Alina Roditšenko)
 - Journalism (Margus Gatski)
   
   school paper, TV, radio
