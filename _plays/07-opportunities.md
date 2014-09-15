@@ -11,10 +11,10 @@ title: CAS Opportunities
 
 - Handicrafts (Sirli Kodres)
 - Drama (Alina Roditšenko)
-- Journalism (Margus Gatski)
+- Journalism (Ester Rooste, Marja-Liisa Lepik)
   
   school paper, TV, radio
-- Music (Margot Peterson, Liivi Urbel, Mikk Simson)
+- Music (Margot Peterson)
   
   choir, orchestra, band, singing, music production
 
