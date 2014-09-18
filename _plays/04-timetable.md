@@ -3,6 +3,8 @@ id: 4
 title: Timetable
 ---
 
+_Note: you'll find the referenced forms in your CAS diary blog._
+
 #### Year 1
 
 **September**: All IB year 1 students must attend a personal interview with the CAS coordinator. When attending this interview, you'll be required to hand in the preliminary CAS plan. (Form 1)
