@@ -4,12 +4,12 @@ title: Requirements, Responsibilities, Guidelines
 ---
 
 - CAS is a requirement for all IB1 and IB2 diploma students; if you fail to fulfill CAS requirements, the diploma will not be awarded.
-- You must have an adult supervisor (not a relative or friend) for every every activity/project.
+- You must have an adult supervisor (not a relative or friend) for every activity/project.
 - Activities must be carried out regularly over IB1 year and during the first two terms of IB2 year. The minimum time allocated should be the equivalent of one afternoon (3 hours) a week.
 - Self-review at the beginning of your CAS experience and set personal goals for what you hope to achieve through your CAS programme.
 - Plan, do and reflect (plan activities, carry them out and reflect on what you have learned).
-- Undertake at least one interim review and a final review with your  CAS advisor.
-- Take part in a range of activities and achievements, including a list of the Principle activities undertaken.
+- Undertake at least one interim review and a final review with your CAS advisor.
+- Take part in a range of activities and achievements, and compose a list of the activities undertaken.
 - show evidence of achievement of the eight CAS learning outcomes.
 
 
